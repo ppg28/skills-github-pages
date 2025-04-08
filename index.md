@@ -2,4 +2,4 @@
 title: Test01 
 ---
 
-[Duck Duck Go]([Duck Duck Go](/skills-github-pages/2025/04/08/page01.html))
+([pagina01link](https://ppg28.github.io/skills-github-pages/2025/04/08/page01.html))
